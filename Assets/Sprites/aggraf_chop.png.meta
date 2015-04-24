@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 1b05ef83344ae4d4589f4fbeb8a3a7ba
+timeCreated: 1429110606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aggraf_chop_0
+    21300002: aggraf_chop_1
+    21300004: aggraf_chop_2
+    21300006: aggraf_chop_3
+    21300008: aggraf_chop_4
+    21300010: aggraf_chop_5
+    21300012: aggraf_chop_6
+    21300014: aggraf_chop_7
+    21300016: aggraf_chop_8
+    21300018: aggraf_chop_9
+    21300020: aggraf_chop_10
+    21300022: aggraf_chop_11
+    21300024: aggraf_chop_12
+    21300026: aggraf_chop_13
+    21300028: aggraf_chop_14
+    21300030: aggraf_chop_15
+    21300032: aggraf_chop_16
+    21300034: aggraf_chop_17
+    21300036: aggraf_chop_18
+    21300038: aggraf_chop_19
+    21300040: aggraf_chop_20
+    21300042: aggraf_chop_21
+    21300044: aggraf_chop_22
+    21300046: aggraf_chop_23
+    21300048: aggraf_chop_28
+    21300050: aggraf_chop_32
+    21300052: aggraf_chop_24
+    21300054: aggraf_chop_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aggraf_chop_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1257
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1264
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1268
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1108
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1117
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1115
+        width: 133
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 946
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 959
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 696
+        width: 76
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 697
+        width: 67
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 697
+        width: 88
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 698
+        width: 68
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 604
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 613
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 605
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 615
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 93
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 284
+        width: 107
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 286
+        width: 73
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 286
+        width: 97
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 291
+        width: 68
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 158
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 172
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 95
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 20
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 97
+        width: 131
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aggraf_chop_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 154
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
